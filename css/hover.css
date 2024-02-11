@@ -1,0 +1,18 @@
+h1 a:hover, h2 a:hover, h3 a:hover{
+    color: rgb(238, 222, 4);
+ }
+#top_navbar a:hover {
+    background-color: rgb(233, 52, 52);
+    color: white;
+    /* width: 100%; */
+    /* display: inline-block; */
+}
+#left_bar a:hover, #right_bar a:hover{
+    background-color: rgb(233, 52, 52);
+    color: white;
+}
+
+button:hover{
+    background: rgb(154, 27, 233);
+    /* #47c415 */
+}

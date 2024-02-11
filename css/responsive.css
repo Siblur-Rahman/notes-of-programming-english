@@ -1,0 +1,23 @@
+@media (max-width: 980px) {
+    #top_navbar{
+        flex-wrap:wrap;
+        justify-content: start;
+        height: 60px;
+    }
+    #left_bar, #right_bar, #main_content{
+        top: 60px;
+    }
+    #second-navbar+#main_content{
+        top: 90px;
+    }
+#second-navbar{
+    top: 60px;
+}
+.to_jump{
+    padding-top: 60px;
+}
+    .dropdown{
+        width: 50%;
+    }
+ }
+ 

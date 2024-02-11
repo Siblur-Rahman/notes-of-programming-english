@@ -1,0 +1,30 @@
+.my_container{
+    width: 80%;
+    margin: auto;
+    font-size: 30px;
+}
+.all_center100 {
+    width: 100%;
+    background: #BB2966;
+    color: #fff;
+    text-align: center;
+}
+.itc{
+    color: #0ee20e !important;
+}
+.div-1{
+    background: #000;
+    color: antiquewhite;
+}
+.div-2{
+    background: #e4b7b7;
+    color: rgb(236, 214, 8);
+}
+.div-3{
+    background: #dd5959;
+    color: rgb(7, 7, 6);
+}
+.div-4{
+    background: #6006f1;
+    color: antiquewhite;
+}

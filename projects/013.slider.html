@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://kit.fontawesome.com/09ff4c6b49.js" crossorigin="anonymous"></script>
+    <title>Document</title>
+    <style>
+        *{
+    margin: 0;
+    padding: 0;
+    }
+    body{
+        background-color: #320808;
+    }
+    .container{
+        width: 90%;
+        margin: auto;
+        background-color: #d22727;
+        height: 500px;
+        padding-top: 200px;
+    }
+    .slider{
+        height: 300px;
+        width: 500px;
+        margin: auto;
+        position: relative;
+        border: 3px solid rgb(89, 85, 85);
+    }
+    span{
+        display: inline-block;
+        /* width: 90px; */
+        position: absolute;
+        top: 150px;
+    }
+    .greater-than{
+        right: 0;
+    }
+    span i{
+        font-size: 40px;
+    }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="slider">
+            <span onclick="previous()"><i class="fa-solid fa-less-than"></i></span>
+            <img src="./images/slider/slider-1.jpg" alt="" height="300px" width="100%">
+            <span onclick="next()" class="greater-than"><i class="fa-solid fa-greater-than"></i></span>
+        </div>
+    </div>
+
+    <!-- JS Code -->
+    <script>
+        var photos =["images/slider/slider-1.jpg","images/slider/slider-2.jpg","images/slider/slider-3.jpg","images/slider/slider-4.jpg"];
+
+        var imgTag = document.querySelector("img");
+
+        var count = 0;
+
+        function next(){
+        count++;
+
+        if(count >= photos.length){
+                count = 0;
+                imgTag.src= photos[count];
+            }else{
+                
+                imgTag.src= photos[count]
+            }
+        }
+        function previous(){
+            count--;
+
+            if(count < 0){
+                    count = photos.length -1;
+                    imgTag.src= photos[count];
+                }else{
+                    
+                    imgTag.src= photos[count]
+                }
+        }
+        setInterval(() => {
+            next();
+        }, 3000);
+    </script>
+</body>
+</html>

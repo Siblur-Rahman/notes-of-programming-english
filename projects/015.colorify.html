@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Colorify</title>
+</head>
+<style>
+    .container{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+            }
+    .circle{
+        height: 200px;
+        width: 200px;
+        border: 1px solid black;
+        border-radius: 50%;
+    }
+    .action{
+        margin: 10px;
+    }
+    button{
+        cursor: pointer;
+        font-size: 25px;
+    }
+    p{
+        font-size: 25px;
+    }
+</style>
+<body>
+    <div class="container">
+        <h1>Colorify</h1>
+        <p class="subheading">
+            With colorify we want to start
+            learning JavaScript.
+          </p>
+          <div class="circle" id="circleID"></div>
+          <div class="action">
+            <button onclick="paint('red')">Red</button>
+            <button onclick="paint('yellow')">Yellow</button>
+            <button onclick="paint('green')">Green</button>
+          </div>
+    </div>
+    <script>
+        function paint(color){
+            document.getElementById("circleID").style = `background-color:${color}`;
+        }
+    </script>
+</body>
+</html>
