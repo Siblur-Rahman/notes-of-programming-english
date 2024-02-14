@@ -1,10 +1,11 @@
 
 <p class="accordion"></p>
 <div class="panel">
-      <h2><span class="itc"><a href="" > Details</a></span></h2>
-      <h2></h2>
+      <h2>HTML DOM Element setAttribute()<span class="itc"><a href="https://www.w3schools.com/jsref/met_element_setattribute.asp" > Details</a></span></h2>
       <div class="mark">
-     
+         The setAttribute() method sets a new value to an attribute.
+            <br>
+         If the attribute does not exist, it is created first.
       </div>
       <h2>Syntax</h2>
       <div class="code_p">

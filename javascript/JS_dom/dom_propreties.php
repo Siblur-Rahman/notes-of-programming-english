@@ -1,5 +1,5 @@
 <style>
-.active_{
+.active_properties{
       background-color: var(--activeBG-1);
       color: var(--activeColor);
    }
@@ -16,6 +16,7 @@
 <?php include './dom_properties/attributes.php'?>
 <?php include './dom_properties/classlist.php'?>
 <?php include './dom_properties/innerhml.php'?>
+<?php include './dom_properties/innertext.php'?>
 <?php include './dom_properties/style.php'?>
 <?php include './dom_properties/value.php'?>
 

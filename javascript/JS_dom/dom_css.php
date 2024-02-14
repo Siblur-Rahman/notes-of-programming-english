@@ -4,8 +4,8 @@
    }
    </style>
    <!-- topics header -->
-<?php include'../js_html_dom_header.php'?>
-<!-- Start Main Content -->
+<?php include'./js_dom_header.php'?>
+<div id="main_content"><!-- Start Main Content -->
 
    <h1 class="center">JavaScript HTML CSS<span><a href="https://www.w3schools.com/js/js_htmldom_css.asp" target="_blank"> Details</a></span></h1>
    <p>The HTML DOM allows JavaScript to change the style of HTML elements.</p>
@@ -37,6 +37,6 @@ To change the style of an HTML element, use this syntax:
       document.getElementById("myDIV").style= "background : red; color : yellow"
 </script>
   
-<!-- End Main Content -->
+</div><!-- End Main Content -->
 <!-- footer -->
-<?php include('../../js_common_footer.php') ?>
+<?php include('../../common_footer.php') ?>

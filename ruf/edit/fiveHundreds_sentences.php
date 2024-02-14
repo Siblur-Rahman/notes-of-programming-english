@@ -45,20 +45,24 @@ pre{
     <p id="toggle_35">35-এই সীটে কি কেউ বসেছেন?<p><p class="code_35">-is this seat taken?</p><br>
     <p id="toggle_36">36-সে খালি পায়ে হাঁটছে<p><p class="code_36">-he is walking barefoot.</p><br>
     <p id="toggle_37">37-আমি বই পড়তে পড়তে ঘুমিয়ে গেলাম<p><p class="code_37">-I fell asleep while reading the book</p><br>
-    <p id="toggle_38">38-<p><p class="code_38">-</p><br>
-    <p id="toggle_39">39<p><p class="code_39">-</p><br>
-    <p id="toggle_40">40-<p><p class="code_40">-</p><br>
-    <p id="toggle_41">41-<p><p class="code_41">-</p><br>
-    <p id="toggle_42">42-<p><p class="code_42">-</p><br>
-    <p id="toggle_43">43-<p><p class="code_43">-</p><br>
-    <p id="toggle_44">44-<p><p class="code_44">-</p><br>
-    <p id="toggle_45">45-<p><p class="code_45">-</p><br>
-    <p id="toggle_46">46-<p><p class="code_46">-</p><br>
-    <p id="toggle_47">47-<p><p class="code_47">-</p><br>
-    <p id="toggle_48">48-<p><p class="code_48">-</p><br>
-    <p id="toggle_49">49-<p><p class="code_49">-</p><br>
-    <p id="toggle_50">50-<p><p class="code_50">-</p><br>
 </pre>
+Dying to = মরিয়া/অত্যন্ত আগ্রহী
+> I am dying to get your phone .
+    তোমার ফোন পেতে আমি মরিয়া হয়ে আছি।
+> I am dying to see you .
+    তাকে দেখার জন্য আমি মরিয়া হয়ে আছি।
+> I am dying to have your love.
+    তোমার ভালোবাসা পেতে আমি মরিয়া হয়ে আছি।
+> I am dying to take a cup of tea.
+    এক কাপ চা খাওয়ার জন্য আমি মরিয়া হয়ে আছি।
+> I am dying to get your letter.
+    তোমার চিঠি পাওয়ার জন্য আমি মরিয়া হয়ে আছি।
+> I am dying to talk to you .
+    আমি তোমার সাথে কথা জন্য মরিয়া হয়ে আছি।
+> I am dying to tell you the real story.
+    তোমাকে আসল ঘটনাটি বলার জন্য আমি মরিয়া হয়ে আছি।
+> Are you dying to get my response?
+    তুমি কি আমার সাড়া পাওযার জন্য অত্যন্ত আগ্রহী হয়ে আছি।
 </div><!--End Main on tooter -->
 <?php include'../../footer.php'?>
 

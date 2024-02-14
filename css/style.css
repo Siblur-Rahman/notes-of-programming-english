@@ -113,7 +113,7 @@ body{
     padding-left: 0;
 }
 /* Button */
-button{
+/* button{
     cursor: pointer;
     text-decoration: none;
     background-color: #f50606;
@@ -128,7 +128,7 @@ button{
 button a{
 
     text-decoration: none;
-}
+} */
 
 /* left-bar */
 #left_bar {

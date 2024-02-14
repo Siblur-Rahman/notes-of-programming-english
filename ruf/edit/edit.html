@@ -1,30 +1,9 @@
-<!doctype html>
-<html>
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <script src="https://cdn.tailwindcss.com"></script>
-  <style>
-    .parent{
-      position: relative;
-      width: 100px;
-      height: 100px;
-      background: #000;
-    }
-    .child{
-      position: absolute;
-      transform: translate(-50%, -50%);
-      width: 100%;
-      height: 100%;
-      background: #e70f0f;
-    }
-  </style>
-</head>
-<body>
-  <div class="parent">
-    <div class="child">
+ There are two ways of event propagation in the HTML DOM, bubbling and capturing.
 
-    </div>
-  </div>
-</body>
-</html>
+      Event propagation is a way of defining the element order when an event occurs. If you have a <span class="itc"> &lt;p&gt; </span > element inside a <span class="itc"> &lt;div&gt; </span > element, and the user clicks on the <span class="itc"> &lt;p&gt; </span > element, which element's "click" event should be handled first?
+
+      In bubbling the inner most element's event is handled first and then the outer: the <span class="itc"> &lt;p&gt; </span > element's click event is handled first, then the <span class="itc"> &lt;div&gt; </span > element's click event.
+
+      In capturing the outer most element's event is handled first and then the inner: the <span class="itc"> &lt;div&gt; </span > element's click event will be handled first, then the <span class="itc"> &lt;p&gt; </span > element's click event.
+
+      With the addEventListener() method you can specify the propagation type by using the "useCapture" parameter:

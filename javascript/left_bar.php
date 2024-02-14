@@ -14,6 +14,7 @@
          <?php include'../js_number/js_number_left_bar.php'?>
          <?php include'../JS_math/js_math_left_bar.php'?>
          <?php include '../JS_dom/js_dom_left_bar.php'?>
+         <?php include '../js_Events/js_events_left_bar.php'?>
          <a href="../js_global/js_global.php" class="active_global">JS Global </a>
       
       <!-- </ul> -->
