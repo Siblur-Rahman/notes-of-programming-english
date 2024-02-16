@@ -146,7 +146,7 @@ button a{
 /* Or right-bar */
 #right_bar{
     height: 100%;
-    width: 10%;
+    width: 15%;
     z-index: 3;
     position: fixed;
     top: 30px;
@@ -181,7 +181,7 @@ list-style-type: none;
     line-height: 30px;
 }
 #main_content{
-    width: 70%;
+    width: 65%;
     height: 100%;
     position: relative;
     top:60px;
@@ -278,6 +278,10 @@ list-style-type: none;
     word-wrap: break-word;
     /* font-size: 20px; */
 }
+.code_p a{
+    color: #0ef49c !important;
+    font-size: 25px;
+}
 .mark {
     background: #FFFFCC;
     color: #000;
@@ -290,9 +294,12 @@ list-style-type: none;
     display: inline !important;
 }
 /* Some Tag */
-h2{
-    color: red;
- }
+    h2 {
+        color: red;
+        font-size: 1.5em !important;
+        font-weight: 600 !important;
+    }
+ 
  h2 a, h3 a {
     font-size: 30px;
     color: #002bff !important;

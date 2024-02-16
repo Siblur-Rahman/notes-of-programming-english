@@ -5,7 +5,7 @@
    <p>getElementId is a method to access any element virtually. It accesses the first element with the specified ID.</p>
    <h3>Syntax</h3>
    <pre class="code_p">
-      var myVariable = document.getElementById(“my_squad”);
+      document.getElementById("elementID")
    </pre>
    <h4 id="test">It can also be used dynamically as follows:</h4>
    <pre class="code_p">

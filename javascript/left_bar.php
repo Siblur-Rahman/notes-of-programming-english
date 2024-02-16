@@ -7,6 +7,7 @@
 <div id="left_bar">
    <h5 class="all-center100"></h5>
       <!-- <ul class="">   -->
+         <a href="../how_to/how_to.php">How to</a>
          <?php include'../js_more_topics/js_more_topics_left_bar.php'?>
          <?php include'../js_function/function_left_bar.php'?>
          <?php include'../js_object/object_left_bar.php'?>

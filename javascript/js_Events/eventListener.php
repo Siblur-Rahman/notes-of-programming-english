@@ -10,7 +10,7 @@
 
 <div id="main_content"><!-- Start Main Content -->
 
-<?php include'./domMethods/addEventListener.php'?>
+<?php include'../JS_dom/domMethods/addEventListener.php'?>
 
       
 

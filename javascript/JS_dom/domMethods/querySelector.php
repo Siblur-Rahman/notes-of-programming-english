@@ -1,5 +1,5 @@
 
-<P class="accordion">GetElementByQuerySelector</P>
+<P class="accordion">QuerySelector</P>
 <div class="panel">
    <h2>HTML DOM querySelector() Method <span class="itc"><a href="https://www.w3schools.com/jsref/met_element_queryselector.asp"  target="_blank">Details</a></span></h2>
    The <span class="itc">querySelector()</span> method returns the first child element that matches a specified CSS selector(s) of an element.
