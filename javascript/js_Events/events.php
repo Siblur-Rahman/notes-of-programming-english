@@ -45,11 +45,14 @@
       </div>
    <p class="accordion">2. Assign Events Using the HTML DOM</p>
    <div class="panel">
-      document.getElementById("myBtn").onclick = displayDate;
+      element.onclick = functionName;
+      <div id="insert-1">
+
+      </div>
    </div>
    <p class="accordion">2. Assign Event using EventLister the HTML DOM</p>
    <div class="panel code_p">
-      document.addEventListener("click", myFunction); br
+      document.addEventListener("click", myFunction); <br>
       document.getElementById('btn-el-1_1').addEventListener('click', function(){ document.getElementById('el-1_1').style.fontSize = '50px' }) <br>
       <a href="./eventListener.php" target="_blank">Details</a>
    </div>
@@ -86,5 +89,17 @@
       
 
 </div><!-- End Main Content -->
+<script>
+   const code_1 =`element.onclick= function myFunc(){
+            element.innerText = 'some text'
+        }
+   `
+   function showCode(OutputId, codeText){
+    const insertEle_1 = document.getElementById(OutputId);
+   //  insertEle_1.style='border:5px solid black; padding:5px';
+    insertEle_1.innerText = codeText;
+ }
+               showCode('insert-1', code_1)
+</script>
 <!--Common footer -->
 <?php include('../../common_footer.php') ?>

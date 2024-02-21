@@ -13,3 +13,14 @@ for (accCount = 0; accCount < acc.length; accCount++) {
     } 
   });
 }
+// const showCodeClass = document.getElementsByClassName('show-code');
+// for(let showItem = 0; showItem < showCodeClass.length; showItem++){
+//   showCodeClass[showItem].style ='color:blue; border:5px solid black; padding:10px';
+// }
+
+// show code
+function showCode(OutputId, codeText){
+  const insertEle_1 = document.getElementById(OutputId);
+  insertEle_1.style='color:blue; border:5px solid black; padding:10px';
+  insertEle_1.innerText = codeText;
+}

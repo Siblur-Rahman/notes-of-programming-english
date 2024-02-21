@@ -11,7 +11,7 @@
         <li><a href="./foot.php" class="active_foot">Foot</a></li>
         <li><a href="./disease.php" class="active_disease">About Disease</a></li>
         <li><a href="./cold_freez.php" class="active_cold_freez">About Cold & Freez</a></li>
-        <li><a href="" class="active_"></a></li>
+        <li><a href="./day_date.php" class="active_">Day & Date</a></li>
         <li><a href="" class="active_"></a></li>
         <li><a href="" class="active_"></a></li>
         <li><a href="" class="active_"></a></li>

@@ -1,6 +1,7 @@
 <style>
 .active_phone{
-   <?php include'../../active_2.php'?>
+      background-color: var(--activeBG-1);
+      color: var(--activeColor);
    }
 </style>
 

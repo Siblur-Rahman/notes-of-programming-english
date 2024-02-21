@@ -16,12 +16,15 @@
 HTML DOM properties are values (of HTML Elements) that you can set or change.</p>
 <hr>
 
-
+<p class="accordion">createElement()</p>
+<div class="panel">
+   <?php include'./domMethods/create_element.php'?>
+</div>
 <?php include'./domMethods/insertAfter.php'?>
 <?php include './domMethods/insertBefore.php'?>
 <?php include './domMethods/getElementById.php'?>
 <?php include './domMethods/getElementsByClassName.php'?>
-<?php include './domMethods/getElementByTagName.php'?>
+<?php include './domMethods/getElementsByTagName.php'?>
 <?php include './domMethods/querySelector.php'?>
 <?php include './domMethods/querySelectorAll.php'?>
 <button class="accordion">Some Method</button>

@@ -12,6 +12,8 @@
     <div class="mark">
         In JavaScript NaN is short for "Not-a-Number". <br><br>
 
+        In JavaScript, NaN is a number that is not a legal number. <br><br>
+
         The isNaN() method returns true if a value is NaN. <br><br>
 
         The isNaN() method converts the value to a number before testing it.
@@ -23,19 +25,23 @@
         <div class="output"><span class="itc" id="sum"></span></div>
             <!--Showing Code  -->
         <p class="accordion">Code</p>
-        <pre class="panel">
-            const arr = [22, "11", "33", 44, "price: 55"]
-            let sum = 0;
-            for(let i =0; i < arr.length; i++){
-                let element = arr[i];
-                let convertedNumber = parseInt(element);
-                if(!isNaN(convertedNumber)){
-                    sum+=convertedNumber
-                }
-            }
-            document.getElementById("sum").innerHTML = sum;
-        </pre>
+        <div class="panel">
+            <div class="show-code" id="insert-1">
+
+            </div>
+        </div>
         <script>
+            const code_1 =`const arr = [22, "11", "33", 44, "price: 55"]
+            let sum = 0;
+            for(let i =0; i < arr.length; i++){
+                let element = arr[i];
+                let convertedNumber = parseInt(element);
+                if(!isNaN(convertedNumber)){
+                    sum+=convertedNumber
+                }
+            }
+            document.getElementById("sum").innerHTML = sum;`
+
             const arr = [22, "11", "33", 44, "price: 55"]
             let sum = 0;
             for(let i =0; i < arr.length; i++){
@@ -46,10 +52,18 @@
                 }
             }
             document.getElementById("sum").innerHTML = sum;
+            // show above Code
+            // document.getElementById('insert-1').innerText =code_1;
+        showCode('insert-1', code_1);
+        //     function showCode(OutputId, codeText){
+        //     const insertEle_1 = document.getElementById(OutputId);
+        //     insertEle_1.style='color:blue; border:5px solid black; padding:10px';
+        //     insertEle_1.innerText = codeText;
+        // }
         </script>
     </div>
 
 </div><!-- End myContainer -->
-    <script src="script.js"></script>
+<script src="./script.js"></script>
 </body>
 </html>

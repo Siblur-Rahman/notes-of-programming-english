@@ -1,7 +1,8 @@
 
 <style>
 .active_shoes{
-   <?php include'../../active_1.php'?>
+      background-color: var(--activeBG-1);
+      color: var(--activeColor);
    }
 </style>
 

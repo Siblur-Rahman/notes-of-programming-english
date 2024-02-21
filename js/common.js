@@ -14,7 +14,14 @@ for (accCount = 0; accCount < acc.length; accCount++) {
     } 
   });
 }
+const showCodeClass = document.getElementsByClassName('showCode');
+for(let showItem = 0; showItem < showCodeClass.length; showItem++){
+   showCodeClass[showItem].style ='color:blue; border:5px solid black; padding:10px';
+}
+function showCodeByIdVariable(id, variableName){
+  document.getElementById(id).innerText = variableName;
 
+}
 // var acc = document.getElementsByClassName("accordion");
 // var accCount;
 
@@ -46,4 +53,3 @@ for (accCount = 0; accCount < acc.length; accCount++) {
 //     }
 //   });
 // }
-

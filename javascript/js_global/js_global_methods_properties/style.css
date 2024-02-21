@@ -10,6 +10,7 @@ h2{
     width: 90%;
     background-color: #e6dddd;
     margin: auto;
+    padding: 10px;
 }
 /* common class */
 .itc{
@@ -37,6 +38,7 @@ h2{
   background: #FFFFCC;
   color: #000;
   margin-bottom: 5px;
+  /* padding-left: 10px; */
   /* font-size: 20px; */
 }
 /* Accordion */

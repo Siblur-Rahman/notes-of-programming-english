@@ -166,6 +166,9 @@ button a{
 #left_bar ul, #right_bar ul{
 list-style-type: none;
 }
+#left_bar, #right_bar {
+    padding-top: 10px;
+}
 #left_bar a, #right_bar a {
     width: 100%;
     display: block;
