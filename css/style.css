@@ -279,7 +279,7 @@ list-style-type: none;
     padding: 8px 12px;
     border-left: 4px solid #4CAF50;
     word-wrap: break-word;
-    /* font-size: 20px; */
+    font-size: 20px;
 }
 .code_p a{
     color: #0ef49c !important;

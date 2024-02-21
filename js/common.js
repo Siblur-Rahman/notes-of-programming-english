@@ -18,9 +18,13 @@ const showCodeClass = document.getElementsByClassName('showCode');
 for(let showItem = 0; showItem < showCodeClass.length; showItem++){
    showCodeClass[showItem].style ='color:blue; border:5px solid black; padding:10px';
 }
-function showCodeByIdVariable(id, variableName){
-  document.getElementById(id).innerText = variableName;
-
+// function showCodeByIdVariable(id, variableName){
+//   document.getElementById(id).innerText = variableName;
+// }
+function showCode(OutputId, codeText){
+  const insertEle_1 = document.getElementById(OutputId);
+  insertEle_1.style='color:blue; border:5px solid black; padding:10px';
+  insertEle_1.innerText = codeText;
 }
 // var acc = document.getElementsByClassName("accordion");
 // var accCount;
