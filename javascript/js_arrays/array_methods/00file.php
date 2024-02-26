@@ -1,6 +1,4 @@
-
-<p class="accordion">Array file()</p>
-<h2><span class="itc"><a href="" > Details</a></span></h2>
+<h2><span class="itc"><a href="" target="_blank"> Details</a></span></h2>
    <div class="panel">
       <h2>Array file()</h2>
       <div class="mark">

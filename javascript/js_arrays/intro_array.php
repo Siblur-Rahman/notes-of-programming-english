@@ -1,6 +1,7 @@
 <style>
    .active_intro{
-      <?php include'../../active_1.php'?>
+      background-color: var(--activeBG-1);
+      color: var(--activeColor);
    }
    </style>
    <!-- topics header -->

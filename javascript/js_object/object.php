@@ -1,7 +1,8 @@
 
 <style>
  .object_active{
-        <?php include'../../active_1.php'?>
+         background-color: var(--activeBG-1);
+         color: var(--activeColor);
     }
 </style>
 <?php include'./object_header.php'?>

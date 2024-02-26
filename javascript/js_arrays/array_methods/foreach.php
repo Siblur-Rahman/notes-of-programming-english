@@ -1,6 +1,5 @@
 <p class="accordion">Array forEach() </p>
  <div class="panel">
-    
     <h2>Array forEach() <span class="itc"><a href="https://www.w3schools.com/jsref/jsref_foreach.asp" target="_blank"> Details</a></span></h2>
           <div class="mark">
           The forEach() method calls a function for each element in an array. <br>

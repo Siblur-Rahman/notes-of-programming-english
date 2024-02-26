@@ -1,10 +1,11 @@
 <!-- style -->
 <style>
    .array_active{
-      <?php include'../../active_3.php'?>
+      background-color: var(--activeBG-3);
    }
    .array_active_right{
-      <?php include'../../active_1.php'?>
+      background-color: var(--activeBG-1);
+      color: var(--activeColor);
    }
     .array_dropdown{
         display: block !important;

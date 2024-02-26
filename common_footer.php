@@ -10,6 +10,5 @@
      <script src="../../js/jquery-3.6.4.min.js"></script>
      <script src="../jquery_codes/jquery_code.js"></script> -->
      <script src="../../js/common.js"></script>
-     <script src="../js/this.js"></script>
 </body>
 </html>

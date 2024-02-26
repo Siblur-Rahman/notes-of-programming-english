@@ -1,6 +1,6 @@
-<p id="12" class="accordion">Array Slice <span class="itc">24_9 <a href="https://www.w3schools.com/jsref/jsref_slice_array.asp"> Details</a></span></p>
+<p id="12" class="accordion">Array Slice</p>
    <div class="panel">
-      <h2>Array slice()</h2>
+      <h2>Array slice() <span class="itc"><a href="https://www.w3schools.com/jsref/jsref_slice_array.asp"> Details</a></span></h2>
       <div class="mark">
       The slice() method returns selected elements in an array, as a new array.  <br>
       <br>

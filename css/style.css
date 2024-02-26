@@ -57,7 +57,8 @@ p{
   /* Accordion End */
 body{
     /* margin: 0 !important;
-    font-size: 20px; */
+   */
+    font-size: 20px; 
 }
 
 #top_navbar {
@@ -261,7 +262,7 @@ list-style-type: none;
 }
 /* Create Color Class */
 .itc{
-    color: #e20e5c !important;
+    color: #e6db07 !important;
 }
 .itc a{
     color: #c2eb0b !important;
@@ -301,6 +302,7 @@ list-style-type: none;
         color: red;
         font-size: 1.5em !important;
         font-weight: 600 !important;
+        margin-bottom: 15px !important;
     }
  
  h2 a, h3 a {

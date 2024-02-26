@@ -1,4 +1,4 @@
-<p class="accordion">Array filter <span class="itc">24_5, 24_6</span></p>
+<p class="accordion">Array filter <span class="itc"></span></span></p>
    <div class="panel">
       <h2>Description</h2>
       <div class="mark">

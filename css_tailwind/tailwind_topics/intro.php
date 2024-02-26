@@ -10,8 +10,14 @@
 
 <div id="main_content"><!-- Start Main Content -->
 
-<h2><span><a href="" target="_blank"> Details</a></span></h2>
-
+<h2>Get started with Tailwind CSS<span><a href="https://tailwindcss.com/docs/installation" target="_blank"> Details</a></span></h2>
+<h2>Installation <span class="itc">Using PostCSS</span></h2>
+<div class="code_p">
+   <p>npm-init -y</p>
+   <p>npm install -D tailwindcss postcss autoprefixer vite</p>
+   <p>npx tailwindcss init -p</p>
+   <p>npm run start</p>
+</div>
       
 
 </div><!-- End Main Content -->

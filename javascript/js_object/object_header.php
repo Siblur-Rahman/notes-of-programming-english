@@ -1,6 +1,10 @@
 <style>
    .active_obj{
-      <?php include'../../../active_3.php'?>
+      background-color: var(--activeBG-3);
+   }
+   .active_obj_right{
+      background-color: var(--activeBG-1);
+      /* color: var(--activeColor); */
    }
    .obj_dropdown{
       display: block !important;

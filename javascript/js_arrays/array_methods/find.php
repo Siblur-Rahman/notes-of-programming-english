@@ -1,7 +1,7 @@
 
-<p id="" class="accordion">Array find() <span class="itc">24_6 <a href=""> Details</a></span></p>
+<p id="" class="accordion">Array find() </p>
    <div class="panel">
-      <h2>Array splice()</h2>
+      <h2>Array splice()<a href=""> Details</a></h2>
       <div class="mark">
       The find() method returns the value of the first element that passes a test. <br>
 

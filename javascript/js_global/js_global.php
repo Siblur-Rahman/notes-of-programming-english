@@ -12,7 +12,10 @@
 
 <h2><span><a href="" target="_blank"> Details</a></span></h2>
    <h2>Methods List</h2>
-<p><a href="./js_global_methods_properties/isNaN.html" target="_blank"><span class="itc">JS isNaN()</span></a> Determines whether a value is an illegal number</p>
+   <p class="accordion">isNaN Method</p>
+   <div class="panel">
+      <?php include './js_global_methods_properties/isNaN.php' ?>
+   </div>
 <p><a href="" target="_blank"><span class="itc"></span></a> </p>
 <p><a href="" target="_blank"><span class="itc"></span></a> </p>
       

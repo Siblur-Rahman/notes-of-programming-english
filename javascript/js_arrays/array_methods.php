@@ -1,6 +1,7 @@
 <style>
    .active_methods{
-      <?php include'../../active_1.php'?>
+      background-color: var(--activeBG-1);
+      color: var(--activeColor);
    }
    </style>
    <!-- topics header -->
@@ -43,6 +44,10 @@
  <?php include'./array_methods/tostring.php'?>
 
  <?php include'./array_methods/join.php'?>
+ <p class="accordion">keys</p>
+ <div class="panel">
+    <?php include'./array_methods/keys.php'?>
+ </div>
 
  <?php include'./array_methods/pop.php'?>
 
@@ -72,6 +77,10 @@
 
  <?php include'./array_methods/indexof.php'?>
 
+ <p class="accordion">reduce()</p>
+ <div class="panel">
+ <?php include'./array_methods/reduce.php'?>
+ </div>
  <?php include'./array_methods/reverse.php'?>
  
  <?php include'./array_methods/sort.php'?>

@@ -3,7 +3,7 @@
 <div id="main_content"><!-- Start Main Content -->
 
    <h2 class="center">JS Functions<span><a href="https://www.w3schools.com/js/js_functions.asp" target="_blank"> Details</a></span></h2>
-   <div class="mark">
+   <div class="mark text-red-600">
    A JavaScript function is a block of code designed to perform a particular task.
    <br>
 

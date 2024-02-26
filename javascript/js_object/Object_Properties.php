@@ -1,6 +1,12 @@
+<style>
+    .properties_active{
+      background-color: var(--activeBG-1);
+      color: var(--activeColor);
+    }
+</style>
 <?php include'../js_object/object_header.php'?>
 <div id="main_content"><!-- Start Main Content --><!-- Start Main Content -->
-<h2 class="heading">JavaScript Object Properties<span><a href="https://www.w3schools.com/js/js_object_properties.asp" target="_blank"> Details</a></span></h2>
+<h2>JavaScript Object Properties<span><a href="https://www.w3schools.com/js/js_object_properties.asp" target="_blank"> Details</a></span></h2>
 <div class="mark">
     Properties are the values associated with a JavaScript object. <br>
 

@@ -2,9 +2,12 @@
          <div class="my_dropdown js_more_topics_dropdown">
             <a href="./Command_line_arguments.php" class="active_command">Command Line Arguments</a>
             <a href="" class="active_"> </a>
-            <a href="./coditions.php" class="active_condition">JS Condition</a>
+            <a href="./conditions.php" class="active_condition">JS Condition</a>
             <a href="./operators.php" class="active_operation">JS operators</a>
-            <!-- <a href="" class="active_"></a> -->
+            <a href="./scope.php" class="active_scope">JS Scope</a>
+            <a href="./hoisting.php" class="active_hoisting">JS Hoisting</a>
+            <a href="./booleans.php" class="active_booleans">JS Booleans</a>
+            <a href="./constructors.php" class="active_constructors">JS Constructors</a>
             <!-- <a href="" class="active_"></a> -->
             <!-- <a href="" class="active_"></a> -->
          </div>

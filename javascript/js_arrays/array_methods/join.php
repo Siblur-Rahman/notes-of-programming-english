@@ -1,4 +1,4 @@
-<p id="" class="accordion">Array join() <span class="itc">24_9</span></p>
+<p id="" class="accordion">Array join()</p>
 <div class="panel">
    <h2>Array join()<span class="itc"><a href="https://www.w3schools.com/jsref/jsref_join.asp"> Details</a></span></h2>
       <div class="mark">
