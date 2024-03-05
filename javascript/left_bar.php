@@ -6,7 +6,7 @@
     </style>
 <div id="left_bar">
    <h5 class="all-center100"></h5>
-      <!-- <ul class="">   -->
+      <ul class="">  
          <a href="../how_to/how_to.php">How to</a>
          <?php include '../js_more_topics/js_more_topics_left_bar.php'?>
          <?php include '../js_function/function_left_bar.php'?>
@@ -20,7 +20,8 @@
          <?php include '../js_Events/js_events_left_bar.php'?>
          <a href="../js_global/js_global.php" class="active_global">JS Global </a>
          <?php include '../js_json/json_left_bar.php'?>
+         <?php include '../js_window/js_window_left_bar.php'?>
 
       
-      <!-- </ul> -->
+   </ul>
 </div>

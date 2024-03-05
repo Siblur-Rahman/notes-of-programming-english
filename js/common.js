@@ -17,11 +17,12 @@ for (accCount = 0; accCount < acc.length; accCount++) {
 // function showCodeByIdVariable(id, variableName){
 //   document.getElementById(id).innerText = variableName;
 // }
-// function showCode(OutputId, codeText){
-//   const element= document.getElementById(OutputId);
-// element.style='color:blue; border:5px solid black; padding:10px';
-// element.innerText = codeText;
-// }
+//  function showCode(OutputId, codeText){
+//       const element= document.getElementById(OutputId);
+//     element.style='color:blue; border:5px solid black; padding:10px';
+//     element.innerText = codeText;
+//     };
+    // export default showCode;
 // var acc = document.getElementsByClassName("accordion");
 // var accCount;
 
