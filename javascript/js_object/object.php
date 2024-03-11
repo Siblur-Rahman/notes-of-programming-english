@@ -14,7 +14,7 @@
    Objects are same as variables in JavaScript, the only difference is that an object holds multiple values in terms of properties and methods. <br> <br>
    Object values are written as name : value pairs (name and value separated by a colon).
    </div>
-<button class="accordion" title="">Objects declaration, Access Update <span class="itc">jhankar Mahbub(13-11)</span></button>
+<button class="accordion" title="">Objects declaration, Access Update</button>
 <div class="panel">
    <pre class="code_p">
 

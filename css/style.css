@@ -89,7 +89,7 @@ body{
 }
 /* second-navbar */
 #second-navbar{
-    width: 70%;
+    width: 64%;
     margin:0 auto;
     padding: 5px 20px;
     background-color: #ebedf4;
@@ -97,7 +97,7 @@ body{
     top: 30px;
     left: 20%;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
     font-size: 20px !important;
     border: 2px solid #dab20e;
     z-index: 3;
@@ -105,9 +105,9 @@ body{
 #second-navbar a{
     text-decoration: none;
 }
-#second-navbar+#main_content{
-    top: 120px;
-}
+/* #second-navbar+#main_content{
+    top: 60px;
+} */
 
 .my_dropdown{
     display: none;
@@ -141,7 +141,7 @@ button a{
     top: 30px;
     left: 0;
     overflow: auto;
-    padding: 0 0 5% 0;
+    padding: 0 0 5% 10px;
 }
 
 /* Or right-bar */
@@ -177,7 +177,7 @@ list-style-type: none;
     font-size: 15px;
     font-weight: 400;
     text-decoration: none;
-    padding: 0 0 5px 15px !important;
+    /* padding: 0 0 5px 15px !important; */
 }
 #left_bar h5:first-child, #right_bar h5:first-child {
     font-size: 24px;
@@ -188,7 +188,7 @@ list-style-type: none;
     width: 65%;
     height: 100%;
     position: relative;
-    top:60px;
+    top:30px;
     left: 20%;
     z-index: 2;
     /* margin-left: 15%; */
@@ -196,7 +196,13 @@ list-style-type: none;
     overflow: auto;
 }
 
-/* some class */
+/* common class */
+.topic_container{
+    width: 90%;
+    padding: 10px;
+    margin: auto;
+    background-color: #e9dada;
+}
 .to_jump{
 	display: inline-block;
 	padding-top: 60px;
@@ -233,8 +239,12 @@ list-style-type: none;
 .r{
     background: #e9dada;
 }
+.my-border{
+    border: 2px solid black;
+}
 .heading{
     color: red;
+    /* font-size: 50px; */
 }
 .w-25{
     width: 25%;
@@ -259,6 +269,7 @@ list-style-type: none;
 .border{
     border: 5px solid black;
     padding: 5px;
+    margin-top: 5px;
 }
 /* Create Color Class */
 .itc{

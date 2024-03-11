@@ -18,9 +18,12 @@
         <h4>To show a virtual window</h4>
         <h4>To Create a Folder Press : <kbd>Ctrl+Shift+N</kbd></h4>
         <h4>To break infinite loop Press : <kbd>ctrl+c</kbd> </h4>
-        <h4>To Press : </h4>
-        <h4>To Press : </h4>
-        <h4>To Press : </h4>
+        <h4>To Format code Press : <kbd>Alt+Ship+F</kbd></h4>
+        <h4>To Press : <kbd></kbd> </h4>
+        <h4>To Press : <kbd></kbd> </h4>
+        <h4>To Press : <kbd></kbd> </h4>
+        <h4>To Press : <kbd></kbd> </h4>
+        <h4>To Press : <kbd></kbd> </h4>
         <div class="mark"></div>
         <button class="accordion">VS Code</button>
         <div class="pane">

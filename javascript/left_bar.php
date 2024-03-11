@@ -21,6 +21,7 @@
          <a href="../js_global/js_global.php" class="active_global">JS Global </a>
          <?php include '../js_json/json_left_bar.php'?>
          <?php include '../js_window/js_window_left_bar.php'?>
+         <?php include '../js_web_api/web_api_left_bar.php'?>
 
       
    </ul>

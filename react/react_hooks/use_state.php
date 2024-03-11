@@ -1,6 +1,6 @@
 
 <style>
-.active_{
+.active_state{
       background-color: var(--activeBG-1);
       color: var(--activeColor);
    }
@@ -10,7 +10,7 @@
 
 <div id="main_content"><!-- Start Main Content -->
 
-<h2><span><a href="" target="_blank"> Details</a></span></h2>
+<h3 class="heading">React useState Hook<span><a href="https://www.w3schools.com/react/react_usestate.asp" target="_blank"> Details</a></span></h3>
 
       
 

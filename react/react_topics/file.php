@@ -1,13 +1,19 @@
-<!-- topics header -->
+
 <style>
 .active_{
-   <?php include'../../active_1.php'?>
+      background-color: var(--activeBG-1);
+      color: var(--activeColor);
    }
 </style>
-<?php include'../react_common_header.php'?>
-<!-- Start Main Content -->
-   <h1 class="center"><span><a href="" target="_blank"> Details</a></span></h1>
+<!-- css topics header -->
+<?php include'../react_header.php'?>
 
-<!-- End Main Content -->
-<!-- footer -->
+<div id="main_content"><!-- Start Main Content -->
+
+<h2><span><a href="" target="_blank"> Details</a></span></h2>
+
+      
+
+</div><!-- End Main Content -->
+<!--Common footer -->
 <?php include('../../common_footer.php') ?>

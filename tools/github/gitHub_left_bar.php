@@ -1,4 +1,4 @@
-<li class="github_active"><a href="../github/git_github.php">Git & GitHub</a></li>
+      <a href="../github/git_github.php" class="github_active">Git & GitHub</a>
          <ul class=" my_dropdown github_dropdown">                  
             <li class=" nav-item"><a class=" nav-link" href="#1">1. To Configure Git</a></li>
             <li class=" nav-item"><a class=" nav-link" href="#2">2. Creating, Removing and so on file and folder</a></li>
