@@ -10,7 +10,7 @@
 
 <div id="main_content"><!-- Start Main Content -->
 
-<h2><span><a href="" target="_blank"> Details</a></span></h2>
+<h3 class="heading">React useEffect Hooks<span><a href="" target="_blank"> Details</a></span></h3>
 
       
 
