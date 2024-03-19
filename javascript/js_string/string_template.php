@@ -4,9 +4,8 @@
 <!-- style -->
 <style>
    .active_{
-    background: #EF043C;
-    line-height: 30px;
-    color: white !important;
+      background-color: var(--activeBG-1);
+      color: var(--activeColor);
 }
 .to_jump{
    padding-top: 110px;

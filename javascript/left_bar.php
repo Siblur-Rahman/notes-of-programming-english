@@ -9,6 +9,7 @@
       <ul class="">  
          <a href="../how_to/how_to.php">How to</a>
          <?php include '../js_more_topics/js_more_topics_left_bar.php'?>
+         <?php include '../js_string/string_left_bar.php'?>
          <?php include '../js_function/function_left_bar.php'?>
          <?php include '../js_object/object_left_bar.php'?>
          <?php include '../js_class/js_class_left_bar.php'?>

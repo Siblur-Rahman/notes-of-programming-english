@@ -1,4 +1,4 @@
-<button class="btn_block accordion itc">chartAt()</button>
+<button class="accordion itc">chartAt()</button>
 <div class="panel">
    <h2>chartAt()<span class="itc"><a href="https://www.w3schools.com/jsref/jsref_charat.asp"> Details</a></span></h2>
       <h2></h2>

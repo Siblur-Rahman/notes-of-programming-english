@@ -16,7 +16,8 @@ The topic has been discussed in <span class="itc">module-36_5</span> at p-Hero.
 </div>
 <div class="code_p">
    localStorage.setItem("name", "John Doe"); <br>
-   localStorage.getItem("name");
+   localStorage.getItem("name"); <br>
+   localStorage.removeItem("keyname")
 </div>
 
       

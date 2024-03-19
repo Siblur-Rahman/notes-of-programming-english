@@ -12,7 +12,9 @@
 
 <h3 class="heading">React Introduction<span><a href="https://www.w3schools.com/react/react_intro.asp" target="_blank"> Details</a></span></h3>
 
-      
+      <div class="code_p">
+         npm create vite@latest my-react-app -- --template react
+      </div>
 
 </div><!-- End Main Content -->
 <!--Common footer -->
