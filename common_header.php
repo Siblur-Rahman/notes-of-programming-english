@@ -26,7 +26,7 @@
             <a href="../../css_notes/css_topics/001.introduction.php" class="css_active">CSS</a>
             <a href="../../css_tailwind/tailwind_topics/intro.php" class="tailwind_active">TAILWIND</a>
             <a href="../../javascript/js_intro/js_intro.php" class="js_active" >JAVASCRIPT</a>
-            <a href="../../react/react_topics/some_command_ext.php" class="react_active">REACT</a>
+            <a href="../../react/_react/_react.php" class="react_active">REACT</a>
             <a href="../../backend/backend_intro/backend_intro.php" class="backend_active">BACKEND</a>
             <a href="../../projects/projects.php" class="projects" target="_blank">PROJECTS</a>
             <a href="../../english/various_topics/dailyRoutine.php" class="english_active">ENGLISH</a>

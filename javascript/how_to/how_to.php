@@ -16,7 +16,6 @@
    <div class="panel">
       <?php include './topics/text_return_set.php'?>
    </div><!-- End panel-->
-
    <!--  -->
    <h2 class="accordion">Insert Element </h2>
    <div class="panel">

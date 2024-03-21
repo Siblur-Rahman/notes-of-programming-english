@@ -5,12 +5,12 @@
       color: var(--activeColor);
    }
 </style>
-<!-- css topics header -->
+<!-- React header -->
 <?php include'../react_header.php'?>
 
 <div id="main_content"><!-- Start Main Content -->
 
-<h3 class="heading">React useEffect Hooks<span><a href="" target="_blank"> Details</a></span></h3>
+<h2><span><a href="" target="_blank"> Details</a></span></h2>
 
       
 

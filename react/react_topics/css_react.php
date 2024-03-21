@@ -1,14 +1,4 @@
-
-<style>
-.active_css{
-      background-color: var(--activeBG-1);
-      color: var(--activeColor);
-   }
-</style>
-<!-- css topics header -->
-<?php include'../react_header.php'?>
-
-<div id="main_content"><!-- Start Main Content -->
+<span class="to_jump" id="css_react"></span>
 
 <h2>Styling React Using CSS<span><a href="https://www.w3schools.com/react/react_css_styling.asp" target="_blank"> Details</a></span></h2>
 <h3>1. To style an element with the inline style attribute, the value must be a JavaScript object:</h3>
@@ -38,23 +28,19 @@
                      `
       document.getElementById('code-3').innerText = code_3;
       const code_4 =`.css {
-  background-color: #282c34;
-  color: white;
-  padding: 40px;
-  font-family: Sans-Serif;
-  text-align: center;
-}
-import './App.css'
-<div className="css">
-      style sheet adding
-    </div>`
-      document.getElementById('code-4').innerText = code_4;
-      // const code_ =``
-      // document.getElementById('code-').innerText = code_;
+      background-color: #282c34;
+      color: white;
+      padding: 40px;
+      font-family: Sans-Serif;
+      text-align: center;
+    }
+    import './App.css'
+    <div className="css">
+          style sheet adding
+        </div>`
+          document.getElementById('code-4').innerText = code_4;
+          // const code_ =``
+          // document.getElementById('code-').innerText = code_;
      </script> 
 
-<h3></h3>
 
-</div><!-- End Main Content -->
-<!--Common footer -->
-<?php include('../../common_footer.php') ?>

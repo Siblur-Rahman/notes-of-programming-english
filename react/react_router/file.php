@@ -5,7 +5,7 @@
       color: var(--activeColor);
    }
 </style>
-<!-- css topics header -->
+<!-- React header -->
 <?php include'../react_header.php'?>
 
 <div id="main_content"><!-- Start Main Content -->

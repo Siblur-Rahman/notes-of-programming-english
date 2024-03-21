@@ -1,12 +1,5 @@
-<style>
-    .active_command{
-        background-color: var(--activeBG-1);
-        color: var(--activeColor);
-       }
-    </style>
-    <?php include'../react_header.php'?>
-    <div id="main_content"><!-- Start Main Content -->
-    <h3 class='heading center' >React Note</h2>
+<span class="to_jump" id="command_ext"></span>
+    <h2 class='heading center' >Some Command & Extention</h2>
         <div id="Some_command">
             <h3>Some Command</h2>
             <h3>Create Project: <span class="itc">npm create vite</span></h3>
@@ -19,7 +12,7 @@
             
         </div>
         <div id="vscode">
-            <h3 class='heading' >VS Code Extension</h2>
+            <h3 class='heading center' >VS Code Extension</h3>
             1. auto rename <br>
             2. auto imporm es6 <br>
             3. esLint <br>
@@ -35,8 +28,3 @@
             13. VSCode React Refactor <br>
             14. vscode-icons
         </div>
-    </div>
-    
-    </div> <!-- End Main Content -->
-    <!-- footer -->
-    <?php include('../../common_footer.php') ?>
