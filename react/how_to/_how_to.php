@@ -6,3 +6,4 @@
 <?php include '../how_to/imageAdd.php'?>
 <?php include '../how_to/FakeData.php'?>
 <?php include '../how_to/themeSetup.php'?>
+<?php include '../how_to/cssClassAdd.php'?>
