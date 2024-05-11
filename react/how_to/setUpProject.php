@@ -1,4 +1,8 @@
+
 <span class="to_jump" id="setup"></span>
+<div>
+
+</div>
 <h2 class="heading center">React Setup</h2>
 <div class="code_p">
     npm create vite@latest my-project -- --template react <br>
@@ -8,7 +12,7 @@
     npm run dev <br>
 
     <h3 class="heading">React Router</h3>
-    npm install react-router-dom localforage match-sorter sort-by
+    <a href="https://reactrouter.com/en/main/start/tutorial" target="_blank">Go to WebSite</a> <br>
 
     <h3 class="heading">React Setup with tailwindcss</h3>
     npm create vite@latest my-project -- --template react <br>
@@ -54,8 +58,14 @@ export default withMT({ <br>
 <div>env: { browser: true, es2020: true, <span class="itc">node:true</span> }</div>
     <h3 class="heading">install React Icon</h3>
     <div>npm install react-icons --save</div>
-    <h3 class="heading"></h3>
+    <h3 class="heading">Install Node-Express</h3>
     <h3 class="heading"></h3>
     <h3></h3>
 </div>
-<h2></h2>
+
+
+<h3 class="heading">express mogodbinstall</h3>
+
+<div class="code_p">
+  npm i express cors monodb dotenv
+</div>

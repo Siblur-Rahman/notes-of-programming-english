@@ -1,6 +1,9 @@
 <span class="to_jump" id="css_react"></span>
 
 <h2>Styling React Using CSS<span><a href="https://www.w3schools.com/react/react_css_styling.asp" target="_blank"> Details</a></span></h2>
+
+<button><a href="https://youtu.be/WUBBGU-IILw?si=hxd83N3ZRbhTGsmJ" target="_blank">Go to Youtube</a></button>
+<button><a href="../_react_video_file/react_25.php" target="_blank">Go to video page</a></button>
 <h3>1. To style an element with the inline style attribute, the value must be a JavaScript object:</h3>
 <div class="code_p" id="code-1"> 
 </div>

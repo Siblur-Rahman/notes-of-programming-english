@@ -5,3 +5,6 @@
     <a class="link" href="#FakeData">Fake Data Create</a>
     <a class="link" href="#themeSetup">Theme Setup</a>
     <a class="link" href="#cssClassAdd">Add CSS Class</a>
+    <a class="link" href="#propValidation">prop Validation</a>
+    <a class="link" href="#toast">toast</a>
+    <a class="link" href="#dataLoad">Data Load</a>

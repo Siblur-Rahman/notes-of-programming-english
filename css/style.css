@@ -197,6 +197,13 @@ list-style-type: none;
 }
 
 /* common class */
+.sticky-top{
+    position: sticky;
+    top: 100px;
+}
+.relative{
+    position: relative;
+}
 .active{
     background-color: var(--activeBG-1);
     color: var(--activeColor);
@@ -277,7 +284,7 @@ list-style-type: none;
 }
 /* Create Color Class */
 .itc{
-    color: #e6db07 !important;
+    color: var(--activeBG-1) !important;
 }
 .itc a{
     color: #c2eb0b !important;

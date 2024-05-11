@@ -7,3 +7,7 @@
 <?php include '../how_to/FakeData.php'?>
 <?php include '../how_to/themeSetup.php'?>
 <?php include '../how_to/cssClassAdd.php'?>
+<?php include '../how_to/propValidation.php'?>
+<?php include '../how_to/toast.php'?>
+<?php include '../how_to/dataLoad.php'?>
+<?php include '../how_to/_assign-11.php'?>

@@ -1,5 +1,24 @@
 <span class="to_jump" id="FakeData"></span>
 <h2 class="heading center">FakeData</h2>
+<h3 class="heading">AI WebSite </h3>
+<div class="code_p">
+    https://poe.com/chat/25muq8r89dev73avl5o //My registard wibsite with sible
+</div>
+
+<h3 class="heading">Search Fake Data </h3>
+<div class="code_p">
+    give me ten json data about book : bookId, bookName, author, image, review, totalPages, rating, category, tags: in an array, publisher, yearOfPublishing
+</div>
+
+<h3 class="heading">Some Free Picture WebSite</h3>
+<div class="code_p">
+    freepic
+</div>
+
+<h3 class="heading">Picture Loading WebSite</h3>
+<div class="code_p">
+    https://imgbb.com //My registard wibsite
+</div>
     <!-- Without fetch -->
     <p class="heading">Without fetch</p>
         <div class="border">
