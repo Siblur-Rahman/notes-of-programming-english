@@ -8,3 +8,7 @@
    <img src={name} alt="">`
 </script>
 </div>
+<h3 class="heading">Picture Loading WebSite</h3>
+<div class="code_p">
+    https://imgbb.com //My registard wibsite
+</div>

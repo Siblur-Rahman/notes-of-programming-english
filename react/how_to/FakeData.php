@@ -15,10 +15,6 @@
     freepic
 </div>
 
-<h3 class="heading">Picture Loading WebSite</h3>
-<div class="code_p">
-    https://imgbb.com //My registard wibsite
-</div>
     <!-- Without fetch -->
     <p class="heading">Without fetch</p>
         <div class="border">
